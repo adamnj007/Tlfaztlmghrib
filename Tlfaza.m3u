@@ -1,72 +1,72 @@
 #EXTM3U
 
 # ===== AL AOULA =====
-#EXTINF:-1 tvg-name="AL OULA" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="Maroc",AL OULA
+#EXTINF:-1 tvg-name="AL OULA" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="Morocco",AL OULA
 https://stream-lb.livemediama.com/alaoula/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="AL OULA TNT" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="Maroc",AL OULA TNT
+#EXTINF:-1 tvg-name="AL OULA TNT" tvg-logo="https://livemediama.com/static/img/channels/alaoula.png" group-title="Morocco",AL OULA TNT
 https://stream-lb.livemediama.com/alaoula-tnt/hls/master.m3u8
 
 
 # ===== 2M =====
-#EXTINF:-1 tvg-name="2M" tvg-logo="https://livemediama.com/static/img/channels/2m.png" group-title="Maroc",2M
+#EXTINF:-1 tvg-name="2M" tvg-logo="https://livemediama.com/static/img/channels/2m.png" group-title="Morocco",2M
 https://stream-lb.livemediama.com/2m/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="2M TNT" tvg-logo="https://livemediama.com/static/img/channels/2m.png" group-title="Maroc",2M TNT
+#EXTINF:-1 tvg-name="2M TNT" tvg-logo="https://livemediama.com/static/img/channels/2m.png" group-title="Morocco",2M TNT
 https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8
 
 
 # ===== MEDI1 =====
-#EXTINF:-1 tvg-name="MEDI1TV Maghreb" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-maghreb.png" group-title="Maroc",MEDI1TV Maghreb
+#EXTINF:-1 tvg-name="MEDI1TV Maghreb" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-maghreb.png" group-title="Morocco",MEDI1TV Maghreb
 https://stream-lb.livemediama.com/medi1tv-maghreb/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="MEDI1TV Arabic" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-arabic.png" group-title="Maroc",MEDI1TV Arabic
+#EXTINF:-1 tvg-name="MEDI1TV Arabic" tvg-logo="https://livemediama.com/static/img/channels/medi1tv-arabic.png" group-title="Morocco",MEDI1TV Arabic
 https://stream-lb.livemediama.com/medi1tv-arabic/hls/master.m3u8
 
 
 # ===== ARRYADIA =====
-#EXTINF:-1 tvg-name="Arryadia SAT" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="Sport Maroc",Arryadia SAT
+#EXTINF:-1 tvg-name="Arryadia SAT" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="Sport Morocco",Arryadia SAT
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Arryadia TNT" tvg-logo="https://livemediama.com/static/img/channels/arryadia-tnt.png" group-title="Sport Maroc",Arryadia TNT
+#EXTINF:-1 tvg-name="Arryadia TNT" tvg-logo="https://livemediama.com/static/img/channels/arryadia-tnt.png" group-title="Morocco",Arryadia TNT
 https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Arryadia HD 1" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-01.png" group-title="Sport Maroc",Arryadia HD 1
+#EXTINF:-1 tvg-name="Arryadia HD 1" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-01.png" group-title="Morocco",Arryadia HD 1
 https://stream-lb.livemediama.com/arryadia-hd-01/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Arryadia HD 2" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-02.png" group-title="Sport Maroc",Arryadia HD 2
+#EXTINF:-1 tvg-name="Arryadia HD 2" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-02.png" group-title="Morocco",Arryadia HD 2
 https://stream-lb.livemediama.com/arryadia-hd-02/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="Arryadia HD 3" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-03.png" group-title="Sport Maroc",Arryadia HD 3
+#EXTINF:-1 tvg-name="Arryadia HD 3" tvg-logo="https://livemediama.com/static/img/channels/arryadia-hd-03.png" group-title="Morocco",Arryadia HD 3
 https://stream-lb.livemediama.com/arryadia-hd-03/hls/master.m3u8
 
 
 # ===== SNRT =====
-#EXTINF:-1 tvg-name="M24 Maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="Maroc",M24 Maroc
+#EXTINF:-1 tvg-name="M24 Maroc" tvg-logo="https://livemediama.com/static/img/channels/m24maroc.png" group-title="Morocco",M24 Maroc
 https://stream-lb.livemediama.com/m24maroc/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="AL OULA Laayoune" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="Maroc",AL OULA Laayoune
+#EXTINF:-1 tvg-name="AL OULA Laayoune" tvg-logo="https://livemediama.com/static/img/channels/laayoune.png" group-title="Morocco",AL OULA Laayoune
 https://stream-lb.livemediama.com/laayounetv/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ALMAGHRIBIA" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="Maroc",ALMAGHRIBIA
+#EXTINF:-1 tvg-name="ALMAGHRIBIA" tvg-logo="https://livemediama.com/static/img/channels/almaghribia.png" group-title="Morocco",ALMAGHRIBIA
 https://stream-lb.livemediama.com/almaghribia/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ASSADISSA" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="Maroc",ASSADISSA
+#EXTINF:-1 tvg-name="ASSADISSA" tvg-logo="https://livemediama.com/static/img/channels/assadissa.png" group-title="Morocco",ASSADISSA
 https://stream-lb.livemediama.com/assadissa/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="AFLAM" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="Maroc",AFLAM
+#EXTINF:-1 tvg-name="AFLAM" tvg-logo="https://livemediama.com/static/img/channels/aflam.png" group-title="Morocco",AFLAM
 https://stream-lb.livemediama.com/aflam/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="TAMAZIGHT" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="Maroc",TAMAZIGHT
+#EXTINF:-1 tvg-name="TAMAZIGHT" tvg-logo="https://livemediama.com/static/img/channels/tamazight.png" group-title="Morocco",TAMAZIGHT
 https://stream-lb.livemediama.com/tamazight/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ATTAKAFIYA" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="Maroc",ATTAKAFIYA
+#EXTINF:-1 tvg-name="ATTAKAFIYA" tvg-logo="https://livemediama.com/static/img/channels/attakafiya.png" group-title="Morocco",ATTAKAFIYA
 https://stream-lb.livemediama.com/athaqafia/hls/master.m3u8
 
 
 # ===== AUTRES =====
-#EXTINF:-1 tvg-name="TELEMAROC" tvg-logo="https://livemediama.com/static/img/channels/telemaroc.png" group-title="Maroc",TELEMAROC
+#EXTINF:-1 tvg-name="TELEMAROC" tvg-logo="https://livemediama.com/static/img/channels/telemaroc.png" group-title="Morocco",TELEMAROC
 https://stream-lb.livemediama.com/telemaroc/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="CHADATV" tvg-logo="https://livemediama.com/static/img/channels/chadatv.png" group-title="Maroc",CHADATV
+#EXTINF:-1 tvg-name="CHADATV" tvg-logo="https://livemediama.com/static/img/channels/chadatv.png" group-title="Morocco",CHADATV
 https://stream-lb.livemediama.com/chadatv/hls/master.m3u8
