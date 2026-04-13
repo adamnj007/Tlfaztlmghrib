@@ -25,7 +25,7 @@ https://stream-lb.livemediama.com/medi1tv-arabic/hls/master.m3u8
 
 
 # ===== ARRYADIA =====
-#EXTINF:-1 tvg-name="Arryadia SAT" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="Sport Morocco",Arryadia SAT
+#EXTINF:-1 tvg-name="Arryadia SAT" tvg-logo="https://livemediama.com/static/img/channels/arryadia.png" group-title="Morocco",Arryadia SAT
 https://stream-lb.livemediama.com/arryadia/hls/master.m3u8
 
 #EXTINF:-1 tvg-name="Arryadia TNT" tvg-logo="https://livemediama.com/static/img/channels/arryadia-tnt.png" group-title="Morocco",Arryadia TNT
